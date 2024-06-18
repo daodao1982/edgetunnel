@@ -28,7 +28,7 @@ let enableSocks = false;
 let fakeUserID ;
 let fakeHostName ;
 let noTLS = 'false'; 
-const expire = 4102329600;//2099-12-31
+// const expire = 4102329600;//2099-12-31
 let proxyIPs;
 let addresses = [];
 let addressesapi = [];
